@@ -1,3 +1,7 @@
+## 📊 Dashboard Preview
+
+![Dashboard](screenshots/dashboard_overview.png)
+
 # 🎬 Netflix Content Evolution & Audience Trends Analysis
 
 ## 🚀 Overview
@@ -9,9 +13,6 @@ This project analyzes Netflix content using Python and Power BI to uncover trend
 * Python – Data cleaning & analysis
 * Power BI – Dashboard visualization
 
-## 📊 Dashboard Preview
-
-![Dashboard](screenshots/dashboard_overview.png)
 
 ## 🐍 Python Analysis
 
